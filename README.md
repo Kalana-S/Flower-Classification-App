@@ -130,8 +130,6 @@ The app uses a **Convolutional Neural Network (CNN)** with **Transfer Learning**
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### HomePage 
 <img src="./img/home.png" width="400" hight="600">
 

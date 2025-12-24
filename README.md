@@ -8,18 +8,18 @@ The application works **100% offline**, ensuring fast inference, privacy, and no
 
 ## 🚀 Features (Core Features)
 
-### 📷 Image Input
+### Image Input
 
   - Capture flower images using the **device camera**
   - Select images from the **photo gallery**
 
-### 🤖 Offline AI Prediction
+### Offline AI Prediction
 
   - On-device **image classification**
   - Real-time prediction without internet
   - Displays **predicted flower** name and **confidence score**
 
-### 🌼 Supported Flower Categories
+### Supported Flower Categories
 
   - Dandelion
   - Daisy
@@ -27,7 +27,7 @@ The application works **100% offline**, ensuring fast inference, privacy, and no
   - Sunflowers
   - Roses
 
-### 📱 Clean & Simple UI
+### Clean & Simple UI
 
   - Material Design–based interface
   - Lightweight and responsive

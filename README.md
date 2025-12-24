@@ -130,11 +130,13 @@ The app uses a **Convolutional Neural Network (CNN)** with **Transfer Learning**
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### HomePage 
-![image](./img/home.png)
+<img src="./img/home.png" width="400" hight="600">
 
 ### Prediction Result 
-![image](./img/prediction.png)
+<img src="./img/prediction.png" width="400" hight="600">
 
 ---
 

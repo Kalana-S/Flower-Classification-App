@@ -138,6 +138,8 @@ The app uses a **Convolutional Neural Network (CNN)** with **Transfer Learning**
 
 Full app workflow — UI → Input → Offline Prediction<br>
 
+[video_2.webm](https://github.com/user-attachments/assets/621a0341-926e-483c-b00b-26430429087a)
+
 ---
 
 ## 🔒 Offline & Privacy-Friendly
